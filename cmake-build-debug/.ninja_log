@@ -1,0 +1,9 @@
+# ninja log v5
+15	6772	7225686464283844	CMakeFiles/AskMe_System.dir/AskMeSystem.cpp.obj	860e4bc9be13f67
+1	6814	7225686464862481	CMakeFiles/AskMe_System.dir/main.cpp.obj	c32b8d106e6e3fa0
+8	7150	7225686468223842	CMakeFiles/AskMe_System.dir/HelperFunctions.cpp.obj	28300007ab8460b2
+43	7245	7225686469242014	CMakeFiles/AskMe_System.dir/Question.cpp.obj	4b974a0792f0cca6
+32	7643	7225686473178572	CMakeFiles/AskMe_System.dir/UsersManager.cpp.obj	da0278533c1c8f12
+24	7776	7225686474463464	CMakeFiles/AskMe_System.dir/QuestionsManager.cpp.obj	545ce21a58a8b498
+6782	10659	7225686503320636	CMakeFiles/AskMe_System.dir/User.cpp.obj	5ee02682368966a1
+10659	11207	7225686508718540	AskMe_System.exe	f6d2447cb06ebd29
