@@ -47,8 +47,31 @@
 
 
 ## Demo
-  * Sign Up
-     ![](Image%20Bank/Pasted%20image%2020230913134848.png)
+  * ## Sign Up
+    
+       <img src="https://github.com/EslamAbdelwahid/AskMeSystem/blob/master/images/answer%20question.png">
+
+  * ## Log In
+
+      <img src="https://github.com/EslamAbdelwahid/AskMeSystem/blob/master/images/log%20in.png">
+
+  * ## Print questions from me
+
+      <img src="https://github.com/EslamAbdelwahid/AskMeSystem/blob/master/images/questions%20from%20me.png">
+
+  * ## Print questions to me
+
+      <img src="https://github.com/EslamAbdelwahid/AskMeSystem/blob/master/images/questions%20to%20me.png">    
+
+  * ## Ask question
+    <img src="https://github.com/EslamAbdelwahid/AskMeSystem/blob/master/images/ask%20question.png"> 
+
+  * ## List of Users
+    <img src="https://github.com/EslamAbdelwahid/AskMeSystem/blob/master/images/list%20users.png"> 
+  * ## Feed
+    <img src="https://github.com/EslamAbdelwahid/AskMeSystem/blob/master/images/feed.png">
+      
+       
 
 
     
